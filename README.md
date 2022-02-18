@@ -19,6 +19,11 @@
 
  * i followed all the steps which mentioned in that file.
 
- * i just finish it with in the lab time.
+ * i'm not feeling well so i skip the lab and i finish it nextday.
 
  * i trid all the activities in this loop concept.
+
+
+## Attributes
+
+  *  [Lorem Picsum](https://picsum.photos/images)
